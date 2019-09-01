@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <title>About Me</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Sophia Ye</title>
+    <!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>-->
+    <link rel="stylesheet" href="css/sophiaye.css">
+    <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light justify-content-center">
@@ -17,18 +19,20 @@
         </ul>
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
+                <a class="nav-link" href="index.html">Projects</a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="#">About Me</a>
             </li>
         </ul>
     </nav>
 
-    <div class="content">
+    <div class="container-fluid bg-3 text-left">
         <div class="row">
-            <div class="col-5">
-                <img src="images/profile_pic_3.jpg" class="img-fluid rounded" alt="Responsive image">
+            <div class="col-sm-6">
+                <img src="images/profile_pic_3.jpg" class="img-responsive" style="width:100%" alt="Image">
             </div>
-            <div class="col"></div>
-            <div class="col-6">
+            <div class="col-sm-6">
                 <h1>Hi, I'm Sophia!</h1>
                 <br>
                 <p>
@@ -40,14 +44,13 @@
                     Currently, I am studying Business Analytics with a minor in Computer Science at the Wharton School
                     of the University of Pennsylvania.
                 </p>
-
-                <!--<a href="#" class="fa fa-facebook"></a>-->
-                <!--<a href="#" class="fa fa-github"></a>-->
-                <!--<a href="#" class="fa fa-linkedin"></a>-->
             </div>
         </div>
-    </div>
-
-    <script src="js/bootstrap.min.js"></script>
+    </div><br>
 </body>
+
+<footer class="container-fluid text-center">
+    <p>&copy; Sophia Ye 2019</p>
+</footer>
+
 </html>
