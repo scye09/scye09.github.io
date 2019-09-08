@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f933766-2e7d-4e2a-b204-4a8d501809eb" name="Default" comment="make about page">
+    <list default="true" id="6f933766-2e7d-4e2a-b204-4a8d501809eb" name="Default" comment="fix home page and graphic design page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphic-Design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Graphic-Design.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sophiaye.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sophiaye.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anti-Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Anti-Resume.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <workItem from="1550777252424" duration="1599000" />
       <workItem from="1567288687107" duration="24651000" />
       <workItem from="1567618457564" duration="13712000" />
-      <workItem from="1567908534814" duration="44000" />
+      <workItem from="1567908534814" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="make about page">
       <created>1550696451082</created>
@@ -111,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567901316537</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix home page and graphic design page">
+      <created>1567908611557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567908611557</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +142,7 @@
     <MESSAGE value="edit roommate app page" />
     <MESSAGE value="create antiresume project page" />
     <MESSAGE value="make graphic design page" />
-    <option name="LAST_COMMIT_MESSAGE" value="make graphic design page" />
+    <MESSAGE value="fix home page and graphic design page" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix home page and graphic design page" />
   </component>
 </project>
