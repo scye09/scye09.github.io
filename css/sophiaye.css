@@ -25,6 +25,15 @@
 .navbar {
     margin-bottom: 0;
     border-radius: 0;
+    font-size:30px;
+}
+
+.navbar-brand {
+    font-size:30px;
+}
+
+body {
+    font-family: "Avenir Next LT Pro", sans-serif;
 }
 
 /* Add a gray background color and some padding to the footer */
